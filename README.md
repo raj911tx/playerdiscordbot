@@ -8,4 +8,4 @@ Then using this data to send to the discord guild.
 Then the data is visualized in a table format in the discord channel.
 
 **The Player data is show as follows**
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/uhUITpP" data-context="false" ><a href="//imgur.com/a/uhUITpP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![bot](https://github.com/raj911tx/playerdiscordbot/blob/main/discord_bot.PNG)
