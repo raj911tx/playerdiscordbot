@@ -8,4 +8,6 @@ Then using this data to send to the discord guild.
 Then the data is visualized in a table format in the discord channel.
 
 **The Player data is show as follows**
+
+
 ![bot](https://github.com/raj911tx/playerdiscordbot/blob/main/discord_bot.PNG)
