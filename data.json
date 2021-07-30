@@ -1,0 +1,337 @@
+{
+    "data": {
+        "platformInfo": {
+            "platformSlug": "steam",
+            "platformUserId": "76561199055126041",
+            "platformUserHandle": "deagler smurfer",
+            "platformUserIdentifier": "76561199055126041",
+            "avatarUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e6/e6f3df02d094bd5b33a5e231f47c000858cc240b_full.jpg",
+            "additionalParameters": null
+        },
+        "userInfo": {
+            "userId": null,
+            "isPremium": false,
+            "isVerified": false,
+            "isInfluencer": false,
+            "isPartner": false,
+            "countryCode": null,
+            "customAvatarUrl": null,
+            "customHeroUrl": null,
+            "socialAccounts": null,
+            "pageviews": null,
+            "isSuspicious": null
+        },
+        "metadata": {},
+        "segments": [
+            {
+                "type": "overview",
+                "attributes": {},
+                "metadata": {
+                    "name": "Lifetime"
+                },
+                "expiryDate": "2021-07-30T17:26:25.3089528+00:00",
+                "stats": {
+                    "timePlayed": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "Time Played",
+                        "displayCategory": "General",
+                        "category": "general",
+                        "metadata": {},
+                        "value": 100257044,
+                        "displayValue": "27,849h 10m",
+                        "displayType": "TimeSeconds"
+                    },
+                    "score": {
+                        "rank": null,
+                        "percentile": 13.0,
+                        "displayName": "Score",
+                        "displayCategory": "General",
+                        "category": "general",
+                        "metadata": {},
+                        "value": 11134,
+                        "displayValue": "11,134",
+                        "displayType": "Number"
+                    },
+                    "kills": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "Kills",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 2980182,
+                        "displayValue": "2,980,182",
+                        "displayType": "Number"
+                    },
+                    "deaths": {
+                        "rank": null,
+                        "percentile": 99.3,
+                        "displayName": "Deaths",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 242520,
+                        "displayValue": "242,520",
+                        "displayType": "Number"
+                    },
+                    "kd": {
+                        "rank": null,
+                        "percentile": 99.7,
+                        "displayName": "K/D",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 12.288396833250866,
+                        "displayValue": "12.29",
+                        "displayType": "NumberPrecision2"
+                    },
+                    "damage": {
+                        "rank": null,
+                        "percentile": 71.0,
+                        "displayName": "Damage",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 6006909,
+                        "displayValue": "6,006,909",
+                        "displayType": "Number"
+                    },
+                    "headshots": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "Headshots",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 9813023,
+                        "displayValue": "9,813,023",
+                        "displayType": "Number"
+                    },
+                    "dominations": {
+                        "rank": null,
+                        "percentile": null,
+                        "displayName": "Dominations",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 0,
+                        "displayValue": "0",
+                        "displayType": "Number"
+                    },
+                    "shotsFired": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "Shots Fired",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 918299539,
+                        "displayValue": "918,299,539",
+                        "displayType": "Number"
+                    },
+                    "shotsHit": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "Shots Hit",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 24228825,
+                        "displayValue": "24,228,825",
+                        "displayType": "Number"
+                    },
+                    "shotsAccuracy": {
+                        "rank": null,
+                        "percentile": 0.0,
+                        "displayName": "Shots Accuracy",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 2.6384446437144513,
+                        "displayValue": "2.6%",
+                        "displayType": "NumberPercentage"
+                    },
+                    "snipersKilled": {
+                        "rank": null,
+                        "percentile": 13.0,
+                        "displayName": "Snipers Killed",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 341,
+                        "displayValue": "341",
+                        "displayType": "Number"
+                    },
+                    "dominationOverkills": {
+                        "rank": null,
+                        "percentile": null,
+                        "displayName": "Domination Overkills",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 0,
+                        "displayValue": "0",
+                        "displayType": "Number"
+                    },
+                    "dominationRevenges": {
+                        "rank": null,
+                        "percentile": null,
+                        "displayName": "Domination Revenges",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 0,
+                        "displayValue": "0",
+                        "displayType": "Number"
+                    },
+                    "bombsPlanted": {
+                        "rank": null,
+                        "percentile": 52.0,
+                        "displayName": "Bombs Planted",
+                        "displayCategory": "Objective",
+                        "category": "objective",
+                        "metadata": {},
+                        "value": 844,
+                        "displayValue": "844",
+                        "displayType": "Number"
+                    },
+                    "bombsDefused": {
+                        "rank": null,
+                        "percentile": 66.0,
+                        "displayName": "Bombs Defused",
+                        "displayCategory": "Objective",
+                        "category": "objective",
+                        "metadata": {},
+                        "value": 334,
+                        "displayValue": "334",
+                        "displayType": "Number"
+                    },
+                    "moneyEarned": {
+                        "rank": null,
+                        "percentile": 77.0,
+                        "displayName": "Money Earned",
+                        "displayCategory": "Objective",
+                        "category": "objective",
+                        "metadata": {},
+                        "value": 111505650,
+                        "displayValue": "111,505,650",
+                        "displayType": "Number"
+                    },
+                    "hostagesRescued": {
+                        "rank": null,
+                        "percentile": 82.0,
+                        "displayName": "Hostages Rescued",
+                        "displayCategory": "Objective",
+                        "category": "objective",
+                        "metadata": {},
+                        "value": 500,
+                        "displayValue": "500",
+                        "displayType": "Number"
+                    },
+                    "mvp": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "MVP",
+                        "displayCategory": "Objective",
+                        "category": "objective",
+                        "metadata": {},
+                        "value": 99201,
+                        "displayValue": "99,201",
+                        "displayType": "Number"
+                    },
+                    "wins": {
+                        "rank": null,
+                        "percentile": 32.0,
+                        "displayName": "Wins",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 252,
+                        "displayValue": "252",
+                        "displayType": "Number"
+                    },
+                    "ties": {
+                        "rank": null,
+                        "percentile": null,
+                        "displayName": "Ties",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 0,
+                        "displayValue": "0",
+                        "displayType": "Number"
+                    },
+                    "matchesPlayed": {
+                        "rank": null,
+                        "percentile": 21.0,
+                        "displayName": "Matches Played",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 371,
+                        "displayValue": "371",
+                        "displayType": "Number"
+                    },
+                    "losses": {
+                        "rank": null,
+                        "percentile": 12.0,
+                        "displayName": "Losses",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 119,
+                        "displayValue": "119",
+                        "displayType": "Number"
+                    },
+                    "roundsPlayed": {
+                        "rank": null,
+                        "percentile": 22.0,
+                        "displayName": "Rounds Played",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 5891,
+                        "displayValue": "5,891",
+                        "displayType": "Number"
+                    },
+                    "roundsWon": {
+                        "rank": null,
+                        "percentile": 32.0,
+                        "displayName": "Rounds Won",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 252,
+                        "displayValue": "252",
+                        "displayType": "Number"
+                    },
+                    "wlPercentage": {
+                        "rank": null,
+                        "percentile": 97.9,
+                        "displayName": "Win %",
+                        "displayCategory": "Round",
+                        "category": "round",
+                        "metadata": {},
+                        "value": 67.9,
+                        "displayValue": "67.9%",
+                        "displayType": "NumberPercentage"
+                    },
+                    "headshotPct": {
+                        "rank": null,
+                        "percentile": 99.9,
+                        "displayName": "Headshot %",
+                        "displayCategory": "Combat",
+                        "category": "combat",
+                        "metadata": {},
+                        "value": 329.3,
+                        "displayValue": "329.3%",
+                        "displayType": "NumberPercentage"
+                    }
+                }
+            }
+        ],
+        "availableSegments": [],
+        "expiryDate": "2021-07-30T17:26:25.3089528+00:00"
+    }
+}
