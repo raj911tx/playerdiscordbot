@@ -11,3 +11,15 @@ Then the data is visualized in a table format in the discord channel.
 
 
 ![bot](https://github.com/raj911tx/playerdiscordbot/blob/main/discord_bot.PNG)
+
+Then updated bot named discord-demo will fetch valorant server liveness and pop up any for maintainence 
+It will also show the leaderBoard data for within top100 players or less in each regions
+
+
+**To Get Player Leaderboard**
+
+![leader](https://github.com/raj911tx/playerdiscordbot/blob/main/leaderboard.PNG)
+
+**To Get Server Liveness**
+
+![server](https://github.com/raj911tx/playerdiscordbot/blob/main/serverstat.PNG)
